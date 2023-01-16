@@ -1,0 +1,43 @@
+{
+  "name": "Iqra Firdose",
+  "type": "personal",
+  "displayStatsPublic": true,
+  "bio": " **Open Source** contributor  **Aviyel** ,Hackthoberfest|Web dev Enthisiast | Technical writer | Communities| ",
+    "avatar": "https://github.com/iqrafirdose.png",
+  "tags": ["Developer","Open Source", "Web dev", "Blogger"],
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/iqra_firdose" },
+    {"icon": "FaLinkedin", "url":"https://www.linkedin.com/in/iqrafirdose/" }
+    { "icon": "FaGithub", "url": "https://github.com/iqrafirdose" },
+    { "icon": "SiHashnode", "url": "https://iqra-firdose.hashnode.dev/" },
+  ],
+
+  "avatar": "https://github.com/iqrafirdose.png",
+  "links": [
+    {
+      "name": "Be a Part of my journey by following me on Twitter",
+      "url": "https://twitter.com/pradumna_saraf"
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow my Open Source journey",
+      "url": "https://github.com/Pradumnasaraf",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Connect with me on LinkedIn",
+      "url": "https://www.linkedin.com/in/pradumnasaraf",
+      "icon": "FaLinkedin"
+    },
+   {
+      "name": "Blogs on open-source,learnings,Web development,Computer science",
+      "url": "https://blog.pradumnasaraf.dev",
+      "icon": "SiHashnode"
+    },
+    {
+      "name": "Blogs at Showwcase",
+      "url": "https://www.showwcase.com/iqrafirdose639401?tab=1",
+      "icon": "FaLink"
+    }
+  ]
+}
